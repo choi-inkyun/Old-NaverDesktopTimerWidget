@@ -1,0 +1,15 @@
+REGEDIT4
+;
+;
+
+
+[HKEY_CURRENT_USER\Software\NHN Corporation\NaverDesktop\Widget\NaverTimerByDingpongV0_1]
+"FileName"="NaverTimerByDingpongV0_1.nd"
+"ID"=dword:00000A65
+"Order"=dword:00000000
+"Autorun"=dword:00000000
+"Name"="NaverTimerByDingpongV0_1"
+"Type"=dword:00000003
+"Version"="1.0.0.1"
+"Widgetname"="NaverTimerByDingpongV0_1"
+"Installed"=dword:00000001
